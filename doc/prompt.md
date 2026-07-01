@@ -12,7 +12,7 @@ please ask question is something is not clear.
 
 
 
-Could you add a new function in the script to filter out some line from an Excel file. INput parametr of the function are:
+Could you create a new python  script to filter out some line from an Excel file. INput parametr of the function are:
 
     *input excel file
 
@@ -20,7 +20,7 @@ Could you add a new function in the script to filter out some line from an Excel
 - dictionnary, containing as key name of column, and list of value for this column
 - a parameter that instruct that value form dirctionnary should be kept in output file, or to be removed.
 
-
+Same behavior that other script with configuration file to default all parameters.
 
 Coudl you generate sample data that would cover all use case, and generate test case to validate behavior.
 
@@ -29,12 +29,14 @@ please ask question is something is not clear.
 
 
 
-Could you add a new function in the script that will split some excel file into several Excel file based on value of column value. INput parametr of the function are:
+Could you create a new script that will split some excel file into several Excel file based on value of column value. INput parametr of the function are:
 
     *input excel file
 
 - directory for ssaving all excel output file
 - a column name, all different value in the column will create a new file containg all line with hs valuein the column.
+
+Same behavior that other script with configuration file to default all parameters.
 
 Coudl you generate sample data that would cover all use case, and generate test case to validate behavior.
 
