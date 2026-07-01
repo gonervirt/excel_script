@@ -1,0 +1,1 @@
+python.exe excel_lookup_merge.py --source source.xlsx --lookup lookup.xlsx --output extended_output.xlsx --source-key customer_id --lookup-key cust_id --lookup-columns segment,region,risk_score --unmatched-output unmatched.xlsx
